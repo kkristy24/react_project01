@@ -4,21 +4,19 @@
   grid-template-areas:
   "h h"
   "n c";
-  grid-template-rows: 60px 1fr;
+  grid-template-rows: 100px 1fr;
   grid-template-columns: 2fr 10fr;
-  /*grid-gap: 10px;*/
+  grid-gap: 10px;
 
   width: 1200px;
 }
 
 .header {
   grid-area: h;
-  height: 100px;
   background-color: rgba(67,191,163,0.88);
 }
 .header img {
   width: 80px;
-
 }
 
 .nav{
@@ -33,6 +31,9 @@
   background-color: rgba(191,130,133,0.88);
 }
 
-.mainImg img {
-  /*width: 500px;*/
+.mainImg img{
+  width: 1200px;
+}
+.avaImg img{
+  width: 200px;
 }
