@@ -1,0 +1,16 @@
+
+.content {
+    grid-area: c;
+    background-color: rgba(191,130,133,0.88);
+}
+
+.mainImg img{
+    width: 1200px;
+}
+.avaImg img{
+    width: 200px;
+}
+
+.item{
+    color: aquamarine;
+}
