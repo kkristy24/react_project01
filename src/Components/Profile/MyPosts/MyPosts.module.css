@@ -1,5 +1,6 @@
 .item{
     color: aqua;
     font-family: Cambria;
-    font-size: x-large;
+    font-size: large;
+    padding: 10px;
 }
