@@ -24,12 +24,12 @@
      },
      navbarPage : {
          friends:[
-             {id: 1, name: 'Mia'},
-             {id: 2, name: 'Alex'},
-             {id: 3, name: 'Cristy'},
-             {id: 4, name: 'Kate'},
-             {id: 5, name: 'Costya'},
-             {id: 6, name: 'Felix'}
+             {id: 1, avaUrl: 'https://sun9-19.userapi.com/impf/c630218/v630218134/481e6/V3Ul0vBgVFA.jpg?size=1024x1024&quality=96&sign=b6babe9e0c58e65daa71329196c7c183&c_uniq_tag=AP8SRNqT5GFoBb4IjC66LlAaZoClfTysSlLNCZwtudg&type=album', name: 'Mia'},
+             {id: 2, avaUrl: 'https://sun9-19.userapi.com/impf/c630218/v630218134/481e6/V3Ul0vBgVFA.jpg?size=1024x1024&quality=96&sign=b6babe9e0c58e65daa71329196c7c183&c_uniq_tag=AP8SRNqT5GFoBb4IjC66LlAaZoClfTysSlLNCZwtudg&type=album', name: 'Alex'},
+             {id: 3, avaUrl: 'https://sun9-19.userapi.com/impf/c630218/v630218134/481e6/V3Ul0vBgVFA.jpg?size=1024x1024&quality=96&sign=b6babe9e0c58e65daa71329196c7c183&c_uniq_tag=AP8SRNqT5GFoBb4IjC66LlAaZoClfTysSlLNCZwtudg&type=album', name: 'Cristy'},
+             {id: 4, avaUrl: 'https://sun9-19.userapi.com/impf/c630218/v630218134/481e6/V3Ul0vBgVFA.jpg?size=1024x1024&quality=96&sign=b6babe9e0c58e65daa71329196c7c183&c_uniq_tag=AP8SRNqT5GFoBb4IjC66LlAaZoClfTysSlLNCZwtudg&type=album', name: 'Kate'},
+             {id: 5, avaUrl: 'https://sun9-19.userapi.com/impf/c630218/v630218134/481e6/V3Ul0vBgVFA.jpg?size=1024x1024&quality=96&sign=b6babe9e0c58e65daa71329196c7c183&c_uniq_tag=AP8SRNqT5GFoBb4IjC66LlAaZoClfTysSlLNCZwtudg&type=album', name: 'Costya'},
+             {id: 6, avaUrl: 'https://sun9-19.userapi.com/impf/c630218/v630218134/481e6/V3Ul0vBgVFA.jpg?size=1024x1024&quality=96&sign=b6babe9e0c58e65daa71329196c7c183&c_uniq_tag=AP8SRNqT5GFoBb4IjC66LlAaZoClfTysSlLNCZwtudg&type=album', name: 'Felix'}
          ]
      }
  }
