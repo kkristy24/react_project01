@@ -1,0 +1,17 @@
+.message{
+    color: #34427d;
+    padding: 10px;
+    border: solid black 1px;
+    border-radius: 25px;
+    margin: 15px;
+}
+.outgoing{
+    justify-self: end;
+    text-align: right;
+    background-color: rgba(54,153,162,0.51);
+}
+.incoming{
+    justify-self: start;
+    text-align: left;
+    background-color: cornflowerblue;
+}

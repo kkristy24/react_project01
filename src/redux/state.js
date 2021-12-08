@@ -8,11 +8,11 @@
              {id: 5, name: 'Constantin'}
          ],
          messages: [
-             {id: 1, message: 'Yo'},
-             {id: 2, message: 'Bla bla'},
-             {id: 3, message: 'How are you?'},
-             {id: 4, message: 'Ha ha'},
-             {id: 5, message: 'Oy'}
+             {id: 1, message: 'Yo', name: 'Mia', type: 'incoming'},
+             {id: 2, message: 'Bla bla', name: 'Me', type: 'outgoing'},
+             {id: 3, message: 'How are you?', name: 'Kate', type: 'incoming'},
+             {id: 4, message: 'Ha ha', name: 'Alex', type: 'incoming'},
+             {id: 5, message: 'Oy', name: 'Me', type: 'outgoing'}
          ]
      },
      profilePage : {
