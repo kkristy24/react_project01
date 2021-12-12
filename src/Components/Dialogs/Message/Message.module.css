@@ -8,7 +8,7 @@
 .outgoing{
     justify-self: end;
     text-align: right;
-    background-color: rgba(54,153,162,0.51);
+    background-color: rgba(100,198,209,0.99);
 }
 .incoming{
     justify-self: start;
